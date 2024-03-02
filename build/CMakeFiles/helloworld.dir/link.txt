@@ -1,0 +1,2 @@
+/Users/werdner/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libhelloworld.a CMakeFiles/helloworld.dir/lib.cpp.o
+/Users/werdner/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libhelloworld.a
