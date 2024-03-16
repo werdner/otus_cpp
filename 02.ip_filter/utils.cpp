@@ -2,6 +2,7 @@
 #include <string>
 #include <cstdint>
 #include <vector>
+#include <limits>
 #include "ip.h"
 
 namespace IP_Utils {
