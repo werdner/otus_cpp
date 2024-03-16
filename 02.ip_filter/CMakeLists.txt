@@ -9,7 +9,7 @@ add_executable(ip_filter_cli ip_filter.cpp)
 add_library(lib utils.cpp ip.cpp)
 
 set_target_properties(ip_filter_cli lib PROPERTIES
-    CXX_STANDARD 14
+    CXX_STANDARD 17
     CXX_STANDARD_REQUIRED ON
 )
 
