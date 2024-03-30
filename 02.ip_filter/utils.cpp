@@ -1,12 +1,9 @@
 #include <vector>
-<<<<<<< HEAD
 #include <limits>
 
 #include "ip.h"
-=======
 #include <string>
 #include <iostream>
->>>>>>> 704f0fc7efe323dc14f33fde2ea383ba49037efd
 
 namespace IP_Utils {
     std::vector<std::string> split(const std::string &str, char d)

@@ -6,11 +6,12 @@
 #include <array>
 #include <memory>
 #include <cstdint>
+#include <algorithm>
 
 #include "utils.h"
 #include "ip.h"
 
-int main(int argc, char const *argv[])
+int main()
 {
     try
     {
